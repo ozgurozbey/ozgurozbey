@@ -1,0 +1,58 @@
+{
+	"name": "runescape-icon-theme",
+	"displayName": "RuneScape Icon Theme",
+	"description": "Old School RuneScape File Icon Theme for VS Code!",
+	"version": "1.2.1",
+	"publisher": "392781",
+	"author": {
+		"name": "Ronald Lencevičius",
+		"url": "https://ronaldas.dev"
+	},
+	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/392781/vscode-runescape-icon-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/392781/vscode-runescape-icon-theme/issues",
+		"email": "rs_vscode_icon@ronaldas.dev"
+	},
+	"sponsor": {
+		"url": "https://ko-fi.com/ronaldas"
+	},
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"runescape",
+		"osrs",
+		"icon-theme",
+		"icon",
+		"customization"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "runescape-icon-theme",
+				"label": "RuneScape Icon Theme",
+				"path": "./src/icons.json"
+			}
+		]
+	},
+	"icon": "assets/icon.png",
+	"__metadata": {
+		"id": "c5b61f5e-2494-4b5e-b801-2d97fe962f2d",
+		"publisherId": "b7fcfc9f-beee-4cef-b4b9-9d0ae8eab133",
+		"publisherDisplayName": " Ronald Lencevičius",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1723099822578,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}
