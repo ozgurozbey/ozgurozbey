@@ -1,0 +1,14 @@
+﻿# Geçici dosyalar ve klasörler
+bin/
+obj/
+.vs/
+*.suo
+*.user
+
+# Derleme dosyaları
+*.dll
+*.exe
+*.log
+
+# Diğer geçici dosyalar
+appsettings.Development.json
