@@ -7,10 +7,10 @@ namespace WebUygulamaProje1.Models
 {
     public class KitapTuru
     {
-        [Key]    // primary key    
+        [Key]       
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Kitap Tür Adı boş bırakılamaz!")]  // not null
+        [Required(ErrorMessage = "Kitap Tür Adı boş bırakılamaz!")]  
 		[MaxLength(25)]
         [DisplayName("Kitap Türü Adı")]
         public string Ad { get; set; }
