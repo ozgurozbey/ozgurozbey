@@ -1,0 +1,32 @@
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] DEBUG: Debug: UWP MODE ENABLED: false (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] ERROR: License file not found: C:\Users\user\AppData\Local\Icecream\Icecream Slideshow Maker\license.lic
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] DEBUG: Debug: Load translation: "C:/Program Files (x86)/Icecream Slideshow Maker/translations/slideshowmaker_tr.qm"  result: true (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] DEBUG: HDD OS ID V2:MJ7BN47031070B923
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] DEBUG: Debug: "Run from insaller:0" (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] DEBUG: Debug: "is frun:0" (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:33] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: main window (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: Apply IceWindow::ShadowRendererType(DWM_API) shadow renderer (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: Current window flags QFlags<Qt::WindowType>(Window|WindowTitleHint|WindowSystemMenuHint|WindowMinMaxButtonsHint|WindowCloseButtonHint|WindowFullscreenButtonHint) (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: We need to add 'Qt::Window' flags to get proper behavior even if there is a parent (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: New window flags: QFlags<Qt::WindowType>(Window|FramelessWindowHint|WindowTitleHint|WindowSystemMenuHint|WindowMinMaxButtonsHint|WindowCloseButtonHint|WindowFullscreenButtonHint) (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: Create DwmAdapter (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: QMetaObject::connectSlotsByName: No matching signal for on_btnRestore_clicked() (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: QMetaObject::connectSlotsByName: No matching signal for on_btnUpload_Youtube() (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: QMetaObject::connectSlotsByName: No matching signal for on_btnUpload_Dropbox() (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: QMetaObject::connectSlotsByName: No matching signal for on_btnUpload_GoogleDrive() (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: void __thiscall VideoPlayerWidget::setProject(class ProjectFile *) (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug: void __thiscall VideoPlayerWidget::updateAudio(void) (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] DEBUG: Debug:  load sound result =  false (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:37] WARNING: Warning: QObject::connect: Parentheses expected, slot QLineEditEx::onSelectionChanged (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:38] INFO: IDiscMaster2->get_Count return '1' devices
+[3.4.6][Windows 10 10.0.17763][i386][00:36:38] DEBUG: HDD OS ID V2:MJ7BN47031070B923
+[3.4.6][Windows 10 10.0.17763][i386][00:36:38] DEBUG: Request url:'http://updates.icecreamapps.com/check.php?ver=3.49&pid=5&mh=caa75011c3182eeec050bbc3fb22d5ab&h=03907d2f3d8bc5751d0356db6039779c'
+[3.4.6][Windows 10 10.0.17763][i386][00:36:39] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:39] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:39] WARNING: Warning: libpng warning: iCCP: known incorrect sRGB profile (:0, )
+[3.4.6][Windows 10 10.0.17763][i386][00:36:39] DEBUG: Update response:'4.03'
+[3.4.6][Windows 10 10.0.17763][i386][00:36:39] DEBUG: Has new version:'4.03'
